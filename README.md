@@ -2,7 +2,7 @@
 Пример программы на C++ в NetBeans с использованием кроссплатформенной компиляции 
 (разработка в Linux Windows-программы)
 
-** sudo apt install mingw-w64 **
+**sudo apt install mingw-w64**
 
 ![srcreenshot](screenshot.png)
 
